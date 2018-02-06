@@ -1,0 +1,11 @@
+Utilizei o Oracle SQL.
+
+Utilizei o banco de dados da minha faculdade, por isso alterei as configurações de conexões ao banco.
+
+Realizei um insert de 50 dados para realizar mais rapidamente meus testes.
+Entao o meu retorno é da seguinte condição:
+id_customer 15 between 27
+ao inves de 
+id_customer 1500 between 2700.
+
+Tem uma imagem nesta pasta com a conclusão do meu teste.

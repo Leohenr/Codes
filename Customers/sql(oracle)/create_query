@@ -1,0 +1,10 @@
+drop table tb_customer_account;
+
+CREATE TABLE tb_customer_account
+(
+id_customer INTEGER not null,
+cpf_cnpj VARCHAR(30) not null,
+nm_customer VARCHAR2(100) not null,
+vl_total long not null,
+is_active NUMBER(1) default 0 not null
+);
